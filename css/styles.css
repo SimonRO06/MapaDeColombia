@@ -36,3 +36,20 @@ mark {
     border-radius: 20px;
     box-sizing: border-box;
 }
+.fotos-elementos-3{
+    border: 5px solid #ff4261;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.fotos-elementos-4 {
+    border: 5px solid #ff4261;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    margin-right: 45px;
+}
