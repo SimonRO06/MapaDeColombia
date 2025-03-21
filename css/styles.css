@@ -14,9 +14,6 @@ h1 {
     box-sizing: border-box;
     padding: 5px;
 }
-#boton_huila:hover {
-    background-color: antiquewhite;
-}
 #mapa_departamentos {
     border: 5px solid #ff4261;
     border-radius: 20px;
