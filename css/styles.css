@@ -5,10 +5,22 @@ body {
     font-optical-sizing: 200px;
     font-style: normal;
 }
+#mapa_colombia:hover {
+    opacity: 0.7;
+}
 h1 {
     background-color: rgb(255, 234, 165);
     color: #ff4261;
     border: 5px solid #ff4261;
+    border-radius: 20px;
+    height: 60px;
+    box-sizing: border-box;
+    padding: 5px;
+}
+h1:hover {
+    background-color: #ff4261;
+    color: rgb(255, 234, 165);
+    border: 5px solid rgb(255, 234, 165);
     border-radius: 20px;
     height: 60px;
     box-sizing: border-box;
@@ -24,6 +36,13 @@ h1 {
     background-color: #ff8989;
     width: 200px;
     border: 5px solid #ff4261;
+    border-radius: 20px;
+    text-align: center;
+}
+#subtitulos:hover {
+    background-color: #ff4261;
+    width: 200px;
+    border: 5px solid #ff8989;
     border-radius: 20px;
     text-align: center;
 }
@@ -45,6 +64,9 @@ mark {
     margin-right: 50px;
     margin-left: 50px;
 }
+.fotos-elementos-3:hover {
+    border: 5px solid #ff8989;
+}
 .fotos-elementos-4 {
     border: 5px solid #ff4261;
     border-radius: 20px;
@@ -52,4 +74,7 @@ mark {
     height: 200px;
     box-sizing: border-box;
     margin-right: 45px;
+}
+.fotos-elementos-4:hover {
+    border: 5px solid #ff8989;
 }
