@@ -29,3 +29,6 @@ h1 {
     border-radius: 20px;
     text-align: center;
 }
+mark {
+    background-color: #ff8989;
+}
